@@ -1,0 +1,7 @@
+A physics engine is a software library that allows for the simulation of physical systems, such as those found in video games or scientific simulations.
+A physics engine uses mathematical models to simulate the behavior of objects under various physical forces such as gravity, friction, and collisions.
+Popular physics engines include Box2D, PhysX, Havok, Bullet Physics, and ODE. These engines are used in a variety of applications, including video games, virtual reality, robotics, and scientific simulations.
+In computer video games, physics engines enhance the player's enjoyment by simulating the complex physical characteristics of a virtual world. Unlike scientific physics engines, video games engines use an approximation of real-world physics to quickly simulate complex world interactions, in real-time, computed on the computer's GPU.
+
+
+
